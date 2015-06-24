@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Laboratorio03</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="botao1">1</string> 
+	<string name="botao2">2</string>
+	<string name="botao3">3</string> 
+	<string name="botao4">4</string> 
+	<string name="botao5">5</string> 
+	<string name="botao6">6</string> 
+	<string name="botao7">7</string> 
+	<string name="botao8">8</string> 
+	<string name="botao9">9</string> 
+	<string name="botao0">0</string>  
+	<string name="adicao">+</string> 
+	<string name="subtracao">-</string> 
+	<string name="divisao">/</string> 
+	<string name="multiplicacao">*</string> 
+</resources>
