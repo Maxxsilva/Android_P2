@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Laboratorio05</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="vetor_ufs">
+        <item >Acre</item>
+        <item >Amazonas</item>
+        <item >Ceará</item>
+        <item >Espírito Santo</item>
+        <item >Minas Gerais</item>
+        <item >Rio Grande do Sul</item>
+        <item >Rio de Janeiro</item>
+        <item >São Paulo</item>
+        <item >Santa Catarina</item>
+        <item >Paraná</item>
+    </string-array>
+    <!-- editbox -->
+    <string name="nome">Nome Completo</string>
+    <string name="email">Email</string>
+    <string name="idade">Idade</string>
+    <!-- radio group -->
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <!-- Toggle Button -->
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="atualiza_auto">Atualizações automáticas?</string>
+	<!-- Contrato -->
+	<string name="contrato">Aceito os termos da aplicação.</string>
+    
+</resources>
