@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Laboratorio07</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cidade">Cidade</string>
+    <string-array name="vetor_ufs">
+        <item >Acre</item>
+        <item >Amazonas</item>
+        <item >Ceará</item>
+        <item >Espírito Santo</item>
+        <item >Minas Gerais</item>
+        <item >Rio Grande do Sul</item>
+        <item >Rio de Janeiro</item>
+        <item >São Paulo</item>
+        <item >Santa Catarina</item>
+        <item >Paraná</item>
+    </string-array>
+    
+    <string name="operacao">Operação</string>
+    <string name="operacao_tipo">Selecione um tipo de operação</string>
+    <string name="moto">Moto</string>
+    <string name="moto_tipo">Selecione um tipo de moto</string>
+    <string name="minimo">Valor Minimo:</string>
+    <string name="maximo">Valor Maximo:</string>
+</resources>
