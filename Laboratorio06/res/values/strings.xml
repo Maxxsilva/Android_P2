@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Laboratorio06</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pergunta">O que achou dessa moto?</string>
+    <string name="vistoria">Agende uma vistoria</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="data">Data</string>
+    <string name="horario">Horário</string>
+</resources>
